@@ -1,0 +1,9 @@
+Class	Name
+1	High to mid-density built area
+2	Low density built area
+3	Industry/Large structures
+4	Paved ground/Bare ground
+5	Vegetation
+6	Water
+7	Deprived urban area (Type 1)
+8	Deprived urban area (Type 2)
